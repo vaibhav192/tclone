@@ -1,0 +1,12 @@
+.endsection{
+    flex:.3;
+    max-width: 300px;
+    height: 100%;
+}
+.exitbtn{
+    display: flex;
+    flex:1;
+    justify-content: flex-end;
+    padding: 20px;
+    cursor: pointer;
+}
